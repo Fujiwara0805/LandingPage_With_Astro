@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "あなたのAstroプロジェクトを始めるために必要な究極のスターターテンプレート"
+  content: "AstroplateはAstroとTailwindCSSで構築された無料のスターターテンプレートで、Astroプロジェクトを素早く始めるために必要なすべてを提供し、貴重な時間を節約します。"
   image: "/images/banner.png"
   button:
     enable: true
